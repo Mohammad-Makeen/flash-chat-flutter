@@ -1,5 +1,3 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
-
 
 # Flash Chat ⚡️
 
@@ -17,13 +15,12 @@ Building a modern messaging app where users can sign up and log in to chat.
 
 ## What you will learn
 
-- Using Firebase authentication to register and sign in users.
+- Using Firebase 
 - Creating beautiful animations using the Flutter Hero widget.
 - Creating custom aniamtions using Flutter's animation controller. 
 - Working with mixins and how they differ from superclasses.
 - Working with Streams.
-- Using ListViews to build scrolling views.
-- Using Firebase Cloud Firestore to store and retrieve data on the fly.
+
 
 
 
